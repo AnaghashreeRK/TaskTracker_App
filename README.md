@@ -1,6 +1,8 @@
 # Tasks Tracker
 This is a simple Tasks Tracker app, to insert, delete and track tasks.
 
+Requirements : npm, IDE - VS Code (Any sutiable IDE can also be used)
+
 You can use this app to make your life hassle free. 
 Copyright
 
