@@ -4,8 +4,8 @@ const expect = chai.expect;
 const app = require('../app.js');
 chai.use(chaiHttp);
 console.log("Welcome to Test Class "); 
-    // ToDo Application 
-    describe('ToDo Application', () => {
+
+	describe('Task Tracker Application', () => {
         it('should render the index view with to do items and completed items', (done) => {
             chai.request(app)
                 .get('/')
